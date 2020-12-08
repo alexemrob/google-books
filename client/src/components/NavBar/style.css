@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+*
+nav {
+    background-color: rgb(1, 1, 39);
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+}
+.navbar-brand{
+    text-decoration: none;
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+}
+ a:hover {
+    text-decoration: underline;
+    color: rgb(1, 1, 175);
+}
+
+.navbar-brand {
+    font-size: 35px;
+}
+
+.nav-item {
+    font-size: 25px;
+}
